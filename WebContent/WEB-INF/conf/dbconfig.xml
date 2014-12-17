@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gbk" ?> 
+<DBConfig>
+	<SIDName>XE</SIDName>
+	<IPAddr>localhost</IPAddr>
+	<DBPort>1521</DBPort>
+	<DriverName>oracle.jdbc.driver.OracleDriver</DriverName>
+	<UserName>scott</UserName>
+	<Password>tiger</Password>
+	<ConnStr>jdbc:oracle:thin:@</ConnStr>
+</DBConfig>
